@@ -1,7 +1,7 @@
 '''
 NAME: Abubakar Sadiq Yusuf
 ID: 10968467
-DEPARMENT: Biomedical Engineering
+DEPARTMENT: Biomedical Engineering
 
 '''
 
