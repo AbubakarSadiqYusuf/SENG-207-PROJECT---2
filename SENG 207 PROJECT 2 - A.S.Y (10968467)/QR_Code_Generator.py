@@ -4,7 +4,7 @@ ID: 10968467
 DEPARTMENT: Biomedical Engineering
 
 '''
-
+# GENERATING A UNIVERSAL SCANNABLE QR CODE.
 import qrcode as qr
 import PySimpleGUI as sg 
 
