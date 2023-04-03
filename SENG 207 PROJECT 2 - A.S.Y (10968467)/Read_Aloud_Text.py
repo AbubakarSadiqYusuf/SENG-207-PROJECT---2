@@ -4,7 +4,7 @@ ID: 10968467
 DEPARTMENT: Biomedical Engineering
 
 '''
-
+# CREATING A TEXT TO SPEECH APP THAT READS OUT ANY GIVEN TEXT.
 import PySimpleGUI as sg
 import pyttsx3
 sg.theme('Topanga')
